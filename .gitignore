@@ -1,3 +1,5 @@
 Day2/.terraform.lock.hcl
 Day2/.terraform/providers/registry.terraform.io/hashicorp/aws/5.58.0/windows_amd64/LICENSE.txt
 Day2/.terraform/providers/registry.terraform.io/hashicorp/aws/5.58.0/windows_amd64/terraform-provider-aws_v5.58.0_x5.exe
+Day2/terraform.tfstate
+Day2/.terraform.tfstate.lock.info
