@@ -16,6 +16,6 @@ output "IPaddress" {
   
 }
 
-output "DNS" {
-  value = aws_instance.web.public_dns
-}
+#output "DNS" {
+# value = aws_instance.web.public_dns
+#}
