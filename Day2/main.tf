@@ -8,3 +8,10 @@ tags = {
 }
 
 }
+
+#output
+
+output "IPaddress" {
+    value = aws_instance.web.public_ip
+  
+}

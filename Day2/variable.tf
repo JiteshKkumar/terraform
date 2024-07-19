@@ -1,6 +1,6 @@
 variable "os" {
     type = string
-    default = ""
+    default = "ami-0b72821e2f351e396"
     description = "AMI id"
 }
 
